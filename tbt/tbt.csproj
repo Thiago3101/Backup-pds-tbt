@@ -1,0 +1,323 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E2A67D96-5E4B-45C6-9093-92E333261589}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>tbt</RootNamespace>
+    <AssemblyName>tbt</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="Recursos\Imagens\TelaUsuario.xaml.cs">
+      <DependentUpon>TelaUsuario.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\AgendamentoRealizado.xaml.cs">
+      <DependentUpon>AgendamentoRealizado.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\CadastroClienteFisico.xaml.cs">
+      <DependentUpon>CadastroClienteFisico.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\CadastroClienteJuridico.xaml.cs">
+      <DependentUpon>CadastroClienteJuridico.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\CadastroEndereco.xaml.cs">
+      <DependentUpon>CadastroEndereco.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\CadastroFornecedor.xaml.cs">
+      <DependentUpon>CadastroFornecedor.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\CadastroFuncionario.xaml.cs">
+      <DependentUpon>CadastroFuncionario.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\CadastroProduto.xaml.cs">
+      <DependentUpon>CadastroProduto.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\CadastroUsuario.xaml.cs">
+      <DependentUpon>CadastroUsuario.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Catalogo.xaml.cs">
+      <DependentUpon>Catalogo.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\ConfirmarAgendamento.xaml.cs">
+      <DependentUpon>ConfirmarAgendamento.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\ConfirmarCadastro.xaml.cs">
+      <DependentUpon>ConfirmarCadastro.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\ConfirmarFecharServ.xaml.cs">
+      <DependentUpon>ConfirmarFecharServ.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\ConfirmarPagamento.xaml.cs">
+      <DependentUpon>ConfirmarPagamento.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\ConfirmarVenda.xaml.cs">
+      <DependentUpon>ConfirmarVenda.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\ConsultarAgendamento.xaml.cs">
+      <DependentUpon>ConsultarAgendamento.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\ConsultarCliente.xaml.cs">
+      <DependentUpon>ConsultarCliente.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\ConsultarFornecedor.xaml.cs">
+      <DependentUpon>ConsultarFornecedor.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\ConsultarFuncionario.xaml.cs">
+      <DependentUpon>ConsultarFuncionario.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\ConsultarUsuario.xaml.cs">
+      <DependentUpon>ConsultarUsuario.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\DadosCorretos.xaml.cs">
+      <DependentUpon>DadosCorretos.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\DadosIncorretos.xaml.cs">
+      <DependentUpon>DadosIncorretos.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\ErroAgendamento.xaml.cs">
+      <DependentUpon>ErroAgendamento.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\ErroPagamento.xaml.cs">
+      <DependentUpon>ErroPagamento.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\ErroVenda.xaml.cs">
+      <DependentUpon>ErroVenda.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Login.xaml.cs">
+      <DependentUpon>Login.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Menu.xaml.cs">
+      <DependentUpon>Menu.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\PagamentoRealizado.xaml.cs">
+      <DependentUpon>PagamentoRealizado.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\VendaRealizada.xaml.cs">
+      <DependentUpon>VendaRealizada.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="Recursos\Imagens\TelaUsuario.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Telas\AgendamentoRealizado.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Telas\CadastroClienteFisico.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Telas\CadastroClienteJuridico.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Telas\CadastroEndereco.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Telas\CadastroFornecedor.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Telas\CadastroFuncionario.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Telas\CadastroProduto.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Telas\CadastroUsuario.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Telas\Catalogo.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Telas\ConfirmarAgendamento.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Telas\ConfirmarCadastro.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Telas\ConfirmarFecharServ.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Telas\ConfirmarPagamento.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Telas\ConfirmarVenda.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Telas\ConsultarAgendamento.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Telas\ConsultarCliente.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Telas\ConsultarFornecedor.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Telas\ConsultarFuncionario.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Telas\ConsultarUsuario.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Telas\DadosCorretos.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Telas\DadosIncorretos.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Telas\ErroAgendamento.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Telas\ErroPagamento.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Telas\ErroVenda.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Telas\Login.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Telas\Menu.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Telas\PagamentoRealizado.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Telas\VendaRealizada.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="Recursos\Imagens\brinquedo1.jfif" />
+    <Content Include="Recursos\Imagens\brinquedo2.jfif" />
+    <Content Include="Recursos\Imagens\brinquedo3.jfif" />
+    <Content Include="Recursos\Imagens\fundobeijos.jfif" />
+    <Content Include="Recursos\Imagens\FundoRosa.jfif" />
+    <Content Include="Recursos\Imagens\fundorossemdetalhes.jfif" />
+    <Resource Include="Recursos\Imagens\x.png" />
+    <Resource Include="Recursos\Imagens\usuario.png" />
+    <Resource Include="Recursos\Imagens\transacao.png" />
+    <Resource Include="Recursos\Imagens\salvar.png" />
+    <Resource Include="Recursos\Imagens\sair.png" />
+    <Resource Include="Recursos\Imagens\produtos.png" />
+    <Resource Include="Recursos\Imagens\pesquisa.png" />
+    <Resource Include="Recursos\Imagens\Mymelody.png" />
+    <Resource Include="Recursos\Imagens\logo.png" />
+    <Resource Include="Recursos\Imagens\lista.png" />
+    <Resource Include="Recursos\Imagens\Laco.png" />
+    <Resource Include="Recursos\Imagens\lacinhobranco.jpg" />
+    <Resource Include="Recursos\Imagens\home.png" />
+    <Resource Include="Recursos\Imagens\fundo.jpeg" />
+    <Resource Include="Recursos\Imagens\favorite.png" />
+    <Resource Include="Recursos\Imagens\excluir.png" />
+    <Resource Include="Recursos\Imagens\envios.png" />
+    <Resource Include="Recursos\Imagens\editar.png" />
+    <Resource Include="Recursos\Imagens\configuracao.png" />
+    <Resource Include="Recursos\Imagens\check.png" />
+    <Resource Include="Recursos\Imagens\carrinho.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

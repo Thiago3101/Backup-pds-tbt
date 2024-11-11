@@ -1,0 +1,388 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A67D96-5E4B-45C6-9093-92E333261589}|tbt\\tbt.csproj|C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\telas\\cadastrofuncionario.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E2A67D96-5E4B-45C6-9093-92E333261589}|tbt\\tbt.csproj|solutionrelative:tbt\\telas\\cadastrofuncionario.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A67D96-5E4B-45C6-9093-92E333261589}|tbt\\tbt.csproj|C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\telas\\cadastrofornecedor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E2A67D96-5E4B-45C6-9093-92E333261589}|tbt\\tbt.csproj|solutionrelative:tbt\\telas\\cadastrofornecedor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A67D96-5E4B-45C6-9093-92E333261589}|tbt\\tbt.csproj|C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\telas\\cadastroendereco.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E2A67D96-5E4B-45C6-9093-92E333261589}|tbt\\tbt.csproj|solutionrelative:tbt\\telas\\cadastroendereco.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A67D96-5E4B-45C6-9093-92E333261589}|tbt\\tbt.csproj|C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\telas\\cadastroclientejuridico.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E2A67D96-5E4B-45C6-9093-92E333261589}|tbt\\tbt.csproj|solutionrelative:tbt\\telas\\cadastroclientejuridico.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A67D96-5E4B-45C6-9093-92E333261589}|tbt\\tbt.csproj|c:\\users\\2022102020086\\downloads\\tbt\\tbt\\tbt\\telas\\cadastroproduto.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E2A67D96-5E4B-45C6-9093-92E333261589}|tbt\\tbt.csproj|solutionrelative:tbt\\telas\\cadastroproduto.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A67D96-5E4B-45C6-9093-92E333261589}|tbt\\tbt.csproj|C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\telas\\agendamentorealizado.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E2A67D96-5E4B-45C6-9093-92E333261589}|tbt\\tbt.csproj|solutionrelative:tbt\\telas\\agendamentorealizado.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A67D96-5E4B-45C6-9093-92E333261589}|tbt\\tbt.csproj|C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\telas\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E2A67D96-5E4B-45C6-9093-92E333261589}|tbt\\tbt.csproj|solutionrelative:tbt\\telas\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A67D96-5E4B-45C6-9093-92E333261589}|tbt\\tbt.csproj|C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\telas\\consultaragendamento.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E2A67D96-5E4B-45C6-9093-92E333261589}|tbt\\tbt.csproj|solutionrelative:tbt\\telas\\consultaragendamento.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A67D96-5E4B-45C6-9093-92E333261589}|tbt\\tbt.csproj|C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\telas\\confirmarvenda.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E2A67D96-5E4B-45C6-9093-92E333261589}|tbt\\tbt.csproj|solutionrelative:tbt\\telas\\confirmarvenda.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A67D96-5E4B-45C6-9093-92E333261589}|tbt\\tbt.csproj|C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\recursos\\imagens\\telausuario.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E2A67D96-5E4B-45C6-9093-92E333261589}|tbt\\tbt.csproj|solutionrelative:tbt\\recursos\\imagens\\telausuario.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A67D96-5E4B-45C6-9093-92E333261589}|tbt\\tbt.csproj|C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\telas\\consultarcliente.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E2A67D96-5E4B-45C6-9093-92E333261589}|tbt\\tbt.csproj|solutionrelative:tbt\\telas\\consultarcliente.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A67D96-5E4B-45C6-9093-92E333261589}|tbt\\tbt.csproj|C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\telas\\consultarfuncionario.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E2A67D96-5E4B-45C6-9093-92E333261589}|tbt\\tbt.csproj|solutionrelative:tbt\\telas\\consultarfuncionario.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A67D96-5E4B-45C6-9093-92E333261589}|tbt\\tbt.csproj|C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\telas\\consultarusuario.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E2A67D96-5E4B-45C6-9093-92E333261589}|tbt\\tbt.csproj|solutionrelative:tbt\\telas\\consultarusuario.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A67D96-5E4B-45C6-9093-92E333261589}|tbt\\tbt.csproj|C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\telas\\errovenda.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E2A67D96-5E4B-45C6-9093-92E333261589}|tbt\\tbt.csproj|solutionrelative:tbt\\telas\\errovenda.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A67D96-5E4B-45C6-9093-92E333261589}|tbt\\tbt.csproj|C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\telas\\erropagamento.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E2A67D96-5E4B-45C6-9093-92E333261589}|tbt\\tbt.csproj|solutionrelative:tbt\\telas\\erropagamento.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A67D96-5E4B-45C6-9093-92E333261589}|tbt\\tbt.csproj|C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\telas\\erroagendamento.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E2A67D96-5E4B-45C6-9093-92E333261589}|tbt\\tbt.csproj|solutionrelative:tbt\\telas\\erroagendamento.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A67D96-5E4B-45C6-9093-92E333261589}|tbt\\tbt.csproj|C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\telas\\dadosincorretos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E2A67D96-5E4B-45C6-9093-92E333261589}|tbt\\tbt.csproj|solutionrelative:tbt\\telas\\dadosincorretos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A67D96-5E4B-45C6-9093-92E333261589}|tbt\\tbt.csproj|C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\telas\\dadoscorretos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E2A67D96-5E4B-45C6-9093-92E333261589}|tbt\\tbt.csproj|solutionrelative:tbt\\telas\\dadoscorretos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A67D96-5E4B-45C6-9093-92E333261589}|tbt\\tbt.csproj|C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\telas\\consultarfornecedor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E2A67D96-5E4B-45C6-9093-92E333261589}|tbt\\tbt.csproj|solutionrelative:tbt\\telas\\consultarfornecedor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A67D96-5E4B-45C6-9093-92E333261589}|tbt\\tbt.csproj|C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\telas\\confirmarpagamento.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E2A67D96-5E4B-45C6-9093-92E333261589}|tbt\\tbt.csproj|solutionrelative:tbt\\telas\\confirmarpagamento.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A67D96-5E4B-45C6-9093-92E333261589}|tbt\\tbt.csproj|C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\telas\\confirmarfecharserv.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E2A67D96-5E4B-45C6-9093-92E333261589}|tbt\\tbt.csproj|solutionrelative:tbt\\telas\\confirmarfecharserv.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A67D96-5E4B-45C6-9093-92E333261589}|tbt\\tbt.csproj|C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\telas\\confirmarcadastro.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E2A67D96-5E4B-45C6-9093-92E333261589}|tbt\\tbt.csproj|solutionrelative:tbt\\telas\\confirmarcadastro.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A67D96-5E4B-45C6-9093-92E333261589}|tbt\\tbt.csproj|C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\telas\\confirmaragendamento.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E2A67D96-5E4B-45C6-9093-92E333261589}|tbt\\tbt.csproj|solutionrelative:tbt\\telas\\confirmaragendamento.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A67D96-5E4B-45C6-9093-92E333261589}|tbt\\tbt.csproj|C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\telas\\catalogo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E2A67D96-5E4B-45C6-9093-92E333261589}|tbt\\tbt.csproj|solutionrelative:tbt\\telas\\catalogo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CadastroProduto.xaml",
+              "DocumentMoniker": "C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\Telas\\CadastroProduto.xaml",
+              "RelativeDocumentMoniker": "tbt\\Telas\\CadastroProduto.xaml",
+              "ToolTip": "C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\Telas\\CadastroProduto.xaml",
+              "RelativeToolTip": "tbt\\Telas\\CadastroProduto.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-08T19:53:24.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CadastroFuncionario.xaml",
+              "DocumentMoniker": "C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\Telas\\CadastroFuncionario.xaml",
+              "RelativeDocumentMoniker": "tbt\\Telas\\CadastroFuncionario.xaml",
+              "ToolTip": "C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\Telas\\CadastroFuncionario.xaml",
+              "RelativeToolTip": "tbt\\Telas\\CadastroFuncionario.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-08T19:44:40.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CadastroFornecedor.xaml",
+              "DocumentMoniker": "C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\Telas\\CadastroFornecedor.xaml",
+              "RelativeDocumentMoniker": "tbt\\Telas\\CadastroFornecedor.xaml",
+              "ToolTip": "C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\Telas\\CadastroFornecedor.xaml",
+              "RelativeToolTip": "tbt\\Telas\\CadastroFornecedor.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-08T19:43:19.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CadastroEndereco.xaml",
+              "DocumentMoniker": "C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\Telas\\CadastroEndereco.xaml",
+              "RelativeDocumentMoniker": "tbt\\Telas\\CadastroEndereco.xaml",
+              "ToolTip": "C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\Telas\\CadastroEndereco.xaml",
+              "RelativeToolTip": "tbt\\Telas\\CadastroEndereco.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-08T19:40:53.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CadastroClienteJuridico.xaml",
+              "DocumentMoniker": "C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\Telas\\CadastroClienteJuridico.xaml",
+              "RelativeDocumentMoniker": "tbt\\Telas\\CadastroClienteJuridico.xaml",
+              "ToolTip": "C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\Telas\\CadastroClienteJuridico.xaml",
+              "RelativeToolTip": "tbt\\Telas\\CadastroClienteJuridico.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-08T19:40:03.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\Telas\\Login.xaml",
+              "RelativeDocumentMoniker": "tbt\\Telas\\Login.xaml",
+              "ToolTip": "C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\Telas\\Login.xaml",
+              "RelativeToolTip": "tbt\\Telas\\Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-08T19:06:37.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AgendamentoRealizado.xaml",
+              "DocumentMoniker": "C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\Telas\\AgendamentoRealizado.xaml",
+              "RelativeDocumentMoniker": "tbt\\Telas\\AgendamentoRealizado.xaml",
+              "ToolTip": "C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\Telas\\AgendamentoRealizado.xaml",
+              "RelativeToolTip": "tbt\\Telas\\AgendamentoRealizado.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-08T18:11:27.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TelaUsuario.xaml",
+              "DocumentMoniker": "C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\Recursos\\Imagens\\TelaUsuario.xaml",
+              "RelativeDocumentMoniker": "tbt\\Recursos\\Imagens\\TelaUsuario.xaml",
+              "ToolTip": "C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\Recursos\\Imagens\\TelaUsuario.xaml",
+              "RelativeToolTip": "tbt\\Recursos\\Imagens\\TelaUsuario.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-08T18:46:59.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ConfirmarPagamento.xaml",
+              "DocumentMoniker": "C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\Telas\\ConfirmarPagamento.xaml",
+              "RelativeDocumentMoniker": "tbt\\Telas\\ConfirmarPagamento.xaml",
+              "ToolTip": "C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\Telas\\ConfirmarPagamento.xaml",
+              "RelativeToolTip": "tbt\\Telas\\ConfirmarPagamento.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-08T18:15:30.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ConfirmarFecharServ.xaml",
+              "DocumentMoniker": "C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\Telas\\ConfirmarFecharServ.xaml",
+              "RelativeDocumentMoniker": "tbt\\Telas\\ConfirmarFecharServ.xaml",
+              "ToolTip": "C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\Telas\\ConfirmarFecharServ.xaml",
+              "RelativeToolTip": "tbt\\Telas\\ConfirmarFecharServ.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-08T18:15:02.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ConfirmarCadastro.xaml",
+              "DocumentMoniker": "C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\Telas\\ConfirmarCadastro.xaml",
+              "RelativeDocumentMoniker": "tbt\\Telas\\ConfirmarCadastro.xaml",
+              "ToolTip": "C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\Telas\\ConfirmarCadastro.xaml",
+              "RelativeToolTip": "tbt\\Telas\\ConfirmarCadastro.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-08T18:14:18.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ConfirmarAgendamento.xaml",
+              "DocumentMoniker": "C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\Telas\\ConfirmarAgendamento.xaml",
+              "RelativeDocumentMoniker": "tbt\\Telas\\ConfirmarAgendamento.xaml",
+              "ToolTip": "C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\Telas\\ConfirmarAgendamento.xaml",
+              "RelativeToolTip": "tbt\\Telas\\ConfirmarAgendamento.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-08T18:13:28.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Catalogo.xaml",
+              "DocumentMoniker": "C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\Telas\\Catalogo.xaml",
+              "RelativeDocumentMoniker": "tbt\\Telas\\Catalogo.xaml",
+              "ToolTip": "C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\Telas\\Catalogo.xaml",
+              "RelativeToolTip": "tbt\\Telas\\Catalogo.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-08T18:12:18.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConsultarCliente.xaml",
+              "DocumentMoniker": "C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\Telas\\ConsultarCliente.xaml",
+              "RelativeDocumentMoniker": "tbt\\Telas\\ConsultarCliente.xaml",
+              "ToolTip": "C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\Telas\\ConsultarCliente.xaml",
+              "RelativeToolTip": "tbt\\Telas\\ConsultarCliente.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-08T18:45:56.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ConsultarFuncionario.xaml",
+              "DocumentMoniker": "C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\Telas\\ConsultarFuncionario.xaml",
+              "RelativeDocumentMoniker": "tbt\\Telas\\ConsultarFuncionario.xaml",
+              "ToolTip": "C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\Telas\\ConsultarFuncionario.xaml",
+              "RelativeToolTip": "tbt\\Telas\\ConsultarFuncionario.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-08T18:43:47.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ConsultarUsuario.xaml",
+              "DocumentMoniker": "C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\Telas\\ConsultarUsuario.xaml",
+              "RelativeDocumentMoniker": "tbt\\Telas\\ConsultarUsuario.xaml",
+              "ToolTip": "C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\Telas\\ConsultarUsuario.xaml",
+              "RelativeToolTip": "tbt\\Telas\\ConsultarUsuario.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-08T18:42:06.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConsultarAgendamento.xaml",
+              "DocumentMoniker": "C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\Telas\\ConsultarAgendamento.xaml",
+              "RelativeDocumentMoniker": "tbt\\Telas\\ConsultarAgendamento.xaml",
+              "ToolTip": "C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\Telas\\ConsultarAgendamento.xaml",
+              "RelativeToolTip": "tbt\\Telas\\ConsultarAgendamento.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-08T18:17:07.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ErroVenda.xaml",
+              "DocumentMoniker": "C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\Telas\\ErroVenda.xaml",
+              "RelativeDocumentMoniker": "tbt\\Telas\\ErroVenda.xaml",
+              "ToolTip": "C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\Telas\\ErroVenda.xaml",
+              "RelativeToolTip": "tbt\\Telas\\ErroVenda.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-08T18:20:51.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConfirmarVenda.xaml",
+              "DocumentMoniker": "C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\Telas\\ConfirmarVenda.xaml",
+              "RelativeDocumentMoniker": "tbt\\Telas\\ConfirmarVenda.xaml",
+              "ToolTip": "C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\Telas\\ConfirmarVenda.xaml",
+              "RelativeToolTip": "tbt\\Telas\\ConfirmarVenda.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-08T18:16:35.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ErroAgendamento.xaml",
+              "DocumentMoniker": "C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\Telas\\ErroAgendamento.xaml",
+              "RelativeDocumentMoniker": "tbt\\Telas\\ErroAgendamento.xaml",
+              "ToolTip": "C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\Telas\\ErroAgendamento.xaml",
+              "RelativeToolTip": "tbt\\Telas\\ErroAgendamento.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-08T18:19:47.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ErroPagamento.xaml",
+              "DocumentMoniker": "C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\Telas\\ErroPagamento.xaml",
+              "RelativeDocumentMoniker": "tbt\\Telas\\ErroPagamento.xaml",
+              "ToolTip": "C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\Telas\\ErroPagamento.xaml",
+              "RelativeToolTip": "tbt\\Telas\\ErroPagamento.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-08T18:20:22.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ConsultarFornecedor.xaml",
+              "DocumentMoniker": "C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\Telas\\ConsultarFornecedor.xaml",
+              "RelativeDocumentMoniker": "tbt\\Telas\\ConsultarFornecedor.xaml",
+              "ToolTip": "C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\Telas\\ConsultarFornecedor.xaml",
+              "RelativeToolTip": "tbt\\Telas\\ConsultarFornecedor.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-08T18:18:05.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DadosIncorretos.xaml",
+              "DocumentMoniker": "C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\Telas\\DadosIncorretos.xaml",
+              "RelativeDocumentMoniker": "tbt\\Telas\\DadosIncorretos.xaml",
+              "ToolTip": "C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\Telas\\DadosIncorretos.xaml",
+              "RelativeToolTip": "tbt\\Telas\\DadosIncorretos.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-08T18:18:54.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DadosCorretos.xaml",
+              "DocumentMoniker": "C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\Telas\\DadosCorretos.xaml",
+              "RelativeDocumentMoniker": "tbt\\Telas\\DadosCorretos.xaml",
+              "ToolTip": "C:\\Users\\2022102020086\\Downloads\\tbt\\tbt\\tbt\\Telas\\DadosCorretos.xaml",
+              "RelativeToolTip": "tbt\\Telas\\DadosCorretos.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-08T18:18:25.172Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
